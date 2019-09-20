@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="chip8.DisassemblerSpec" tests="35" skipped="0" failures="0" errors="0" timestamp="2019-09-18T17:39:33" hostname="soul-release.local" time="0.052">
+  <properties/>
+  <testcase name="Clear Screen is printed" classname="chip8.DisassemblerSpec" time="0.006"/>
+  <testcase name="Return is printed" classname="chip8.DisassemblerSpec" time="0.002"/>
+  <testcase name="SYS is decoded" classname="chip8.DisassemblerSpec" time="0.002"/>
+  <testcase name="JP_A is decoded" classname="chip8.DisassemblerSpec" time="0.001"/>
+  <testcase name="CALL is decoded" classname="chip8.DisassemblerSpec" time="0.001"/>
+  <testcase name="SE is decoded" classname="chip8.DisassemblerSpec" time="0.001"/>
+  <testcase name="DRW is decoded" classname="chip8.DisassemblerSpec" time="0.001"/>
+  <testcase name="SNE is decoded" classname="chip8.DisassemblerSpec" time="0.001"/>
+  <testcase name="SE is decoded" classname="chip8.DisassemblerSpec" time="0.001"/>
+  <testcase name="LD is decoded" classname="chip8.DisassemblerSpec" time="0.001"/>
+  <testcase name="ADD is decoded" classname="chip8.DisassemblerSpec" time="0.001"/>
+  <testcase name="LD is decoded" classname="chip8.DisassemblerSpec" time="0.001"/>
+  <testcase name="OR is decoded" classname="chip8.DisassemblerSpec" time="0.001"/>
+  <testcase name="AND is decoded" classname="chip8.DisassemblerSpec" time="0.001"/>
+  <testcase name="XOR is decoded" classname="chip8.DisassemblerSpec" time="0.004"/>
+  <testcase name="ADD is decoded" classname="chip8.DisassemblerSpec" time="0.003"/>
+  <testcase name="SUB is decoded" classname="chip8.DisassemblerSpec" time="0.001"/>
+  <testcase name="SHR is decoded" classname="chip8.DisassemblerSpec" time="0.001"/>
+  <testcase name="SUBN is decoded" classname="chip8.DisassemblerSpec" time="0.001"/>
+  <testcase name="SHL is decoded" classname="chip8.DisassemblerSpec" time="0.001"/>
+  <testcase name="SNE is decoded" classname="chip8.DisassemblerSpec" time="0.001"/>
+  <testcase name="LD is decoded" classname="chip8.DisassemblerSpec" time="0.001"/>
+  <testcase name="JP is decoded" classname="chip8.DisassemblerSpec" time="0.0"/>
+  <testcase name="RND is decoded" classname="chip8.DisassemblerSpec" time="0.001"/>
+  <testcase name="SKP is decoded" classname="chip8.DisassemblerSpec" time="0.001"/>
+  <testcase name="SKNP is decoded" classname="chip8.DisassemblerSpec" time="0.0"/>
+  <testcase name="LD is decoded" classname="chip8.DisassemblerSpec" time="0.0"/>
+  <testcase name="LD is decoded" classname="chip8.DisassemblerSpec" time="0.001"/>
+  <testcase name="LD is decoded" classname="chip8.DisassemblerSpec" time="0.001"/>
+  <testcase name="LD is decoded" classname="chip8.DisassemblerSpec" time="0.001"/>
+  <testcase name="ADD is decoded" classname="chip8.DisassemblerSpec" time="0.001"/>
+  <testcase name="LD is decoded" classname="chip8.DisassemblerSpec" time="0.001"/>
+  <testcase name="LD is decoded" classname="chip8.DisassemblerSpec" time="0.001"/>
+  <testcase name="LD is decoded" classname="chip8.DisassemblerSpec" time="0.001"/>
+  <testcase name="LD is decoded" classname="chip8.DisassemblerSpec" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
